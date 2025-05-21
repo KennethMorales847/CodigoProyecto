@@ -1,0 +1,66 @@
+mexico|capital|Ciudad de México
+mexico|territorio|1972550
+mexico|poblacion|126000000
+mexico|dato|Tiene la pirámide más grande del mundo en volumen (Cholula).
+
+argentina|capital|Buenos Aires
+argentina|territorio|2780400
+argentina|poblacion|45100000
+argentina|dato|En Argentina se originó el tango.
+
+colombia|capital|Bogotá
+colombia|territorio|1141748
+colombia|poblacion|50880000
+colombia|dato|Es el segundo país más biodiverso del mundo.
+
+chile|capital|Santiago
+chile|territorio|756102
+chile|poblacion|19100000
+chile|dato|Chile alberga el desierto más seco del mundo: el de Atacama.
+
+peru|capital|Lima
+peru|territorio|1285216
+peru|poblacion|33000000
+peru|dato|Machu Picchu es una de las nuevas siete maravillas del mundo.
+
+brasil|capital|Brasilia
+brasil|territorio|8515767
+brasil|poblacion|215000000
+brasil|dato|Es el único país de América del Sur que habla portugués.
+
+belice|capital|Belmopán
+belice|territorio|22966
+belice|poblacion|405000
+belice|dato|Tiene la segunda barrera de coral más grande del mundo.
+
+haiti|capital|Puerto Príncipe
+haiti|territorio|27750
+haiti|poblacion|11700000
+haiti|dato|Fue el primer país latinoamericano en independizarse (1804).
+
+surinam|capital|Paramaribo
+surinam|territorio|163820
+surinam|poblacion|618000
+surinam|dato|Es el país más pequeño de Sudamérica en territorio y población.
+
+guyana|capital|Georgetown
+guyana|territorio|214969
+guyana|poblacion|804000
+guyana|dato|Es el único país de América del Sur con inglés como idioma oficial.
+
+guayana|capital|Cayena
+guayana|territorio|83534
+guayana|poblacion|294000
+guayana|dato|Es un departamento de ultramar de Francia y alberga una base espacial europea.
+
+
+republica|capital|Santo Domingo
+republica|territorio|104.4
+republica|poblacion|965040
+republica|dato|Es la ciudad europea mas antigua del continente americano.
+
+puerto|capital|San Juan
+puerto|territorio|199.0
+puerto|poblacion|342259
+puerto|dato|Tiene un sistema de fortalezas coloniales que aun se conserva.
+
